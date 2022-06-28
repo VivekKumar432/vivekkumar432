@@ -1,16 +1,11 @@
-### Hello, I am Vivek Kumar 👋
+### Hello, I'm Vivek Kumar 👋
 
-<!--
-**VivekKumar432/vivekkumar432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Music Application 
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on Sangeet🎶(a music app using Flutter).
+- 🌱 I’m currently learning App Development 
 - 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🤔 I’m looking for help with UI/UX
+- 💬 Ask me about Developme
+- 📫 How to reach me: Twitter, Telegram
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I can stay awake for 2 days straight.
+
